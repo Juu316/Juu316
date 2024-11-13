@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Juu316
 - 👀 I’m interested in Networking (not socialising, actual networking)
 - 🌱 I’m currently learning HTML, CSS, JavaScrioooopt...
-- 💞️ I’m looking to collaborate on PINETOUR PROJECTS :)
+- 💞️ I’m looking to collaborate on PINECONE's PROJECTS :)
 
 
 <!---
