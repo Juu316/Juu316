@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Juu316
-- 👀 I’m interested in Networking (not socialising, actual networking)
-- 🌱 I’m currently learning JavaScrioooopt...
-- 💞️ I’m looking to collaborate on PINECONE's PROJECTS :)
+- 👋 Hi, I’m Usukh-Erdene
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on anything interesting :)
 
 
 <!---
